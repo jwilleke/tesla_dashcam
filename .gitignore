@@ -132,3 +132,6 @@ examples/
 .vscode/settings.json
 =*
 README.html
+private/
+.claude/settings.local.json
+.claude/worktrees/
