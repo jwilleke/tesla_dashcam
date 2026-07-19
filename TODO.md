@@ -10,14 +10,13 @@ kit_version: "3aa1bb4"
 <!-- RESUME:START -->
 ## ▶ Resume here
 
-- Last worked on: nothing yet — fill this in after the first session
-- Branch / state: master, clean
+- Last worked on: fork setup — configured remotes, installed the agent kit, applied labels, opened tracking issue [#1](https://github.com/jwilleke/tesla_dashcam/issues/1)
+- Branch / state: `dev`, clean, based on upstream `dev` @ `7038459`
 - Running / in-flight: none
 - Parked / half-done: none
 - Next steps:
-  - Run `utility/sync-labels.sh` to apply standard GitHub labels
-  - Open the first issue and label it P1 or P2
-  - Run `/pstatus` to populate the bands below
+  - Decide fork-specific goals on [#1](https://github.com/jwilleke/tesla_dashcam/issues/1)
+  - Set a routine to sync upstream (`git fetch upstream && git merge upstream/dev`)
 - Blockers / significant notes: none
 <!-- RESUME:END -->
 
@@ -48,7 +47,7 @@ _none yet_
 
 ## 🟡 P2
 
-_none yet_
+- [#1](https://github.com/jwilleke/tesla_dashcam/issues/1) — Fork setup & customization tracking
 
 ## 🐛 Open bugs
 

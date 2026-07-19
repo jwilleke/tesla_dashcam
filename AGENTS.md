@@ -79,3 +79,9 @@ saves for Dashcam/Sentry events into a single movie, using **ffmpeg** as the enc
   kit's `.markdownlint.jsonc` + `markdown-lint.yml`.
 - Behavior changes should be reflected in `README.md` (the authoritative user docs) and, where
   relevant, the `Preference_Files/*.txt` argparse presets.
+
+### Current state
+
+- Fork is configured and tracking upstream; agent kit + standard labels are installed.
+- No code changes yet beyond docs/tooling. Base is upstream `dev` @ `7038459`.
+- Open tracking issue: [#1 Fork setup & customization](https://github.com/jwilleke/tesla_dashcam/issues/1) (P2).
