@@ -28,7 +28,7 @@ kit_version: "3aa1bb4"
 
 <!-- Dependabot and scanner alerts go here. Run `/pstatus` to surface them. -->
 
-_none open_
+- [#2](https://github.com/jwilleke/tesla_dashcam/issues/2) — [security] py/clear-text-logging-sensitive-data — GPS coordinates logged in clear text (P0, 4 CodeQL alerts)
 
 ## ⏳ Waiting on review / in-review
 
