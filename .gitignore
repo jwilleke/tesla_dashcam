@@ -135,3 +135,6 @@ README.html
 private/
 .claude/settings.local.json
 .claude/worktrees/
+
+# Local static ffmpeg (drawtext-capable) for this Mac
+/bin/
