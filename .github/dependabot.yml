@@ -6,15 +6,9 @@ updates:
       interval: "weekly"
     labels:
       - "dependencies"
-    groups:
-      python-dependencies:
-        patterns: ["*"]
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
     labels:
       - "dependencies"
-    groups:
-      github-actions:
-        patterns: ["*"]
